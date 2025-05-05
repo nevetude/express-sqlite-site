@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  form {
+    margin-bottom: 20px;
+  }
+  input {
+    padding: 8px;
+    width: 70%;
+  }
+  button {
+    padding: 8px 15px;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    background: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+  }
+  small {
+    color: #666;
+  }
